@@ -1,3 +1,3 @@
-  <a href="https://github.com/arashjfz/ForkTest/index.html">
+  <a href="/index.html">
     Arash
   </a>
